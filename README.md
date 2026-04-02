@@ -13,18 +13,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-0f0f0f?style=for-the-badge&logo=gmail&logoColor=ea4335)](mailto:omkaravasare2@gmail.com)
 
 </div>
----
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## ◈ About Me
-
-```yaml
-role     : Full Stack Developer & AI Engineer
-studying : B.Tech IT (Honors: Cybersecurity) @ Pune
-focus    : Clean Architecture · CI/CD · Data-Driven Systems
-```
-
 I build **scalable backend services**, **full-stack apps**, and **ML pipelines** — from AWS multi-AZ deployments to published ML research. I ship things that work.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -73,22 +64,6 @@ I build **scalable backend services**, **full-stack apps**, and **ML pipelines**
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## ◈ GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=omkaravasare&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkaravasare&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e" height="160"/>
-
-<img src="https://streak-stats.demolab.com?user=omkaravasare&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9&sideLabels=8b949e&dates=8b949e" width="60%"/>
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:0d1117&height=80&section=footer" width="100%"/>
-
 <div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=omkaravasare&style=flat-square&color=58a6ff&label=Profile+Views)
