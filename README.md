@@ -35,6 +35,22 @@ I build **scalable backend services**, **full-stack apps**, and **ML pipelines**
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<div align="justify">
+🚀 Featured Projects
+
+🤖 **GenAI Driven Financial Intelligence Platform**  
+AI-powered platform that analyzes financial data and provides intelligent insights for smarter decision-making.
+
+💰 **BudgetWise: AI Finance Manager**  
+A smart personal finance manager that helps track expenses, manage budgets, and improve financial habits using AI.
+
+📈 **Bitcoin Price Prediction using Linear Regression**  
+Machine learning model that predicts Bitcoin price trends using historical data and regression techniques.
+
+📊 **LightGBM based Sales Prediction**  
+A sales forecasting system built using LightGBM to predict future sales with high accuracy.
+</div>
 ## ◈ Tech Stack
 
 <div align="center">
@@ -62,23 +78,6 @@ I build **scalable backend services**, **full-stack apps**, and **ML pipelines**
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 </div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<div align="justify">
-🚀 Featured Projects
-
-🤖 **GenAI Driven Financial Intelligence Platform**  
-AI-powered platform that analyzes financial data and provides intelligent insights for smarter decision-making.
-
-💰 **BudgetWise: AI Finance Manager**  
-A smart personal finance manager that helps track expenses, manage budgets, and improve financial habits using AI.
-
-📈 **Bitcoin Price Prediction using Linear Regression**  
-Machine learning model that predicts Bitcoin price trends using historical data and regression techniques.
-
-📊 **LightGBM based Sales Prediction**  
-A sales forecasting system built using LightGBM to predict future sales with high accuracy.
-</div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
 
