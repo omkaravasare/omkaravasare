@@ -68,6 +68,6 @@ I build **scalable backend services**, **full-stack apps**, and **ML pipelines**
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=omkaravasare&style=flat-square&color=58a6ff&label=Profile+Views)
 
-*"First, solve the problem. Then, write the code."*
+*"Behind every elegant program is a well-understood problem."*
 
 </div>
