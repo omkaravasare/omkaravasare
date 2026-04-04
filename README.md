@@ -19,6 +19,7 @@
 I build **scalable backend services**, **full-stack apps**, and **ML pipelines** — from AWS multi-AZ deployments to published ML research. I ship things that work.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 ## GSSOC(24) Badges✅
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
@@ -37,7 +38,8 @@ I build **scalable backend services**, **full-stack apps**, and **ML pipelines**
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="justify">
-🚀 Featured Projects
+
+**🚀 Featured Projects**
 
 🤖 **GenAI Driven Financial Intelligence Platform**  
 AI-powered platform that analyzes financial data and provides intelligent insights for smarter decision-making.
@@ -51,6 +53,7 @@ Machine learning model that predicts Bitcoin price trends using historical data 
 📊 **LightGBM based Sales Prediction**  
 A sales forecasting system built using LightGBM to predict future sales with high accuracy.
 </div>
+
 ## ◈ Tech Stack
 
 <div align="center">
