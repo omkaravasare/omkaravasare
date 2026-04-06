@@ -52,6 +52,10 @@ Machine learning model that predicts Bitcoin price trends using historical data 
 
 📊 **LightGBM based Sales Prediction**  
 A sales forecasting system built using LightGBM to predict future sales with high accuracy.
+
+**Engineered and Deployed Highly Available Web Application on AWS**
+Cloud Architected scalable infrastructure using EC2 Auto Scaling Groups and Application Load Balancer for high availability and fault tolerance.
+Implemented multi-AZ deployment with automated scaling policies to handle variable traffic loads and ensure 99.9% uptime.
 </div>
 
 ## ◈ Tech Stack
