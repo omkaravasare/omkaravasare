@@ -86,7 +86,7 @@ Implemented multi-AZ deployment with automated scaling policies to handle variab
 
 </div>
 
-
+<div align="center">
 ## ◈ Achievements
 
 🏆 GSSOC 2024 Contributor  
