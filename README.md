@@ -96,6 +96,7 @@ Implemented multi-AZ deployment with automated scaling policies to handle variab
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <div align="center">
+
 ![Visitor Count](https://komarev.com/ghpvc/?username=omkaravasare&style=flat-square&color=58a6ff&label=Profile+Views)
 
 *"Behind every elegant program is a well-understood problem."*
