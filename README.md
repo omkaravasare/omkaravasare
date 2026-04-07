@@ -86,8 +86,16 @@ Implemented multi-AZ deployment with automated scaling policies to handle variab
 
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-<div align="center">
 
+
+## ◈ Achievements
+
+🏆 GSSOC 2024 Contributor  
+📄 Published ML Research Paper  
+☁️ AWS Cloud Architecture Deployment  
+💡 Built scalable multi-AZ infrastructure with Auto Scaling  
+
+<div align="center">
 ![Visitor Count](https://komarev.com/ghpvc/?username=omkaravasare&style=flat-square&color=58a6ff&label=Profile+Views)
 
 *"Behind every elegant program is a well-understood problem."*
